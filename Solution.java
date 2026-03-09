@@ -1,4 +1,4 @@
-class Solution {
+class Main {
     public boolean isPalin(String s){
         int st=0;
         int en=s.length()-1;
